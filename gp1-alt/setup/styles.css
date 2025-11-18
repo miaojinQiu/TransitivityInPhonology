@@ -1,0 +1,189 @@
+/* display for small screens */
+body {
+	font-size: 16px;
+	background-color: #445;
+	text-align: center;
+	overflow-y: scroll;
+	margin: 1px;
+	padding: 1px;
+	font-family: serif;
+}
+
+#mainwrapper {
+	width: 100%;
+	margin: 0 auto;	
+	border: solid black 1px;
+	padding: 0;
+	background-color: #eee;
+	position: relative;
+	clear:both;
+}
+
+#main {
+	margin: 10px;	
+	border: none;
+	padding: 0;
+	background-color: #eee;
+	color: #000;
+	position: relative;
+	clear:both;
+}
+h1 {
+	color: #390;
+}
+
+button, input[type=button], input[type=text], select, textarea {
+	font-family: serif;
+	font-size: 100%;
+	height: 1.7rem;
+}
+
+#footer {
+	text-align: left;
+	width: 100%;
+	margin: auto;	
+	padding: 10px 0px 0px 0px;
+	color: #aaa;	
+	font-size: 75%;
+	clear:both;
+}
+#progressbar {
+	float: right;
+	direction: ltr;
+	margin-left: .5rem;
+}
+#progress_text {
+	float: right;
+	color: #aaa;
+	padding-right: 6px;
+}
+#progress_bar_full {
+	float: right;
+	height: 3px;
+	margin: 4px 0px 4px 0px;
+	background-color: #aaa;
+	border-left: solid 1px #aaa;
+	border-top: solid 1px #aaa;
+	border-bottom: solid 1px #aaa;
+}
+#progress_bar_empty {
+	float: right;
+	height: 3px;
+	margin: 4px 0px 4px 0px;
+	border-right: solid 1px #aaa;
+	border-top: solid 1px #aaa;
+	border-bottom: solid 1px #aaa;
+}
+
+.trialpartWrapper {
+	display: none;
+	text-align: center; 
+	padding-bottom: 20px;
+}
+
+.soundbutton {
+}
+
+
+
+.scaleWrapper {
+	text-align: center;
+	white-space: nowrap;
+	clear: both;
+}
+.scaleEdgeLabelL {
+	margin-right: .5ex;
+	float: left;
+}
+.scaleEdgeLabelR {
+	margin-left: .5ex;
+	float: right;
+}
+
+.scalebuttonWrapper {
+	display: inline;
+}
+.scaleButton {
+	display: inline;
+	margin: .15ex;
+}
+
+
+
+
+
+
+
+#recorder {
+	text-align: left;
+	min-height: 4.5rem;
+	display: inline-block;
+	width: 13rem;
+	white-space: nowrap;
+}
+#controls {
+	line-height: 100%
+}
+#controls button {
+	margin-right: .5rem;
+}
+#controls div {
+	display: inline;
+}
+@keyframes pulsate {
+    0%   { opacity: 1   ; }
+    50%  { opacity:  .25; }
+    100% { opacity: 1   ; }
+}
+#controls .pulsating {
+  animation: pulsate 1.5s ease-out infinite;
+}
+#recorder ol {
+	margin: 0;
+	padding: 0;
+}
+#recorder  li {
+	list-style: none;
+	margin: 1rem 0rem;
+}
+#recorder audio {
+	width: 100%;
+	display: block;
+	margin-top: 0rem;
+	height: 2rem;
+}
+
+
+/* adjust display for bigger screens */
+@media only screen and (min-width: 600px) {
+	body {
+		font-size: 18px;
+		padding: 1rem;
+	}
+	#mainwrapper {
+		max-width: 600px;
+	}
+	#main {
+		margin: 20px;	
+	}
+	#footer {
+		max-width: 600px;
+	}
+	#controls button {
+		min-width: 7rem;
+		margin-right: 1rem;
+	}
+	#recorder {
+		width: 24.5rem;
+	}
+	.scaleButton {
+		margin: .35ex;
+	}
+	.scaleWrapper {
+		clear: none;
+	}
+
+}
+
+
+

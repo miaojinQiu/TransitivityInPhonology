@@ -1,0 +1,251 @@
+item	wav	img	type	subtype	wav2
+okuNe_sg	o_k_u_N_e.webm	singular_054.png	train0
+epipi_sg	e_p_i_p_i.webm	singular_051.png	train0
+eNeku_sg	e_N_e_k_u.webm	singular_068.png	train0
+eNipe_pl	c_e_N_i_p_e.webm	plural_086.png	train0
+enoto_pl	c_e_n_o_t_o.webm	plural_092.png	train0
+ecuco_pl	c_e_c_u_c_o.webm	plural_047.png	train0
+icopu_sg	i_c_o_p_u.webm	singular_010.png	train0
+eNeke_pl	c_e_N_e_k_e.webm	plural_002.png	train0
+eNeNe_sg	e_N_e_N_e.webm	singular_009.png	train0
+oceno_sg	o_c_e_n_o.webm	singular_064.png	train0
+emopo_pl	c_e_m_o_p_o.webm	plural_012.png	train0
+oNinu_pl	t_o_N_i_n_u.webm	plural_042.png	train0
+iNupu_sg	i_N_u_p_u.webm	singular_075.png	train0
+iNutu_sg	i_N_u_t_u.webm	singular_077.png	train0
+emumu_pl	c_e_m_u_m_u.webm	plural_006.png	train0
+upitu_sg	u_p_i_t_u.webm	singular_084.png	train0
+iNoce_sg	i_N_o_c_e.webm	singular_020.png	train0
+ukino_sg	u_k_i_n_o.webm	singular_029.png	train0
+okuNe_pl	t_o_k_u_N_e.webm	plural_054.png	train0
+inenu_sg	i_n_e_n_u.webm	singular_046.png	train0
+ucoci_pl	t_u_c_o_c_i.webm	plural_049.png	train0
+okuce_pl	t_o_k_u_c_e.webm	plural_038.png	train0
+ecuco_sg	e_c_u_c_o.webm	singular_047.png	train0
+iNiku_sg	i_N_i_k_u.webm	singular_069.png	train0
+ekoce_pl	c_e_k_o_c_e.webm	plural_062.png	train0
+ukite_sg	u_k_i_t_e.webm	singular_008.png	train1
+ometo_sg	o_m_e_t_o.webm	singular_087.png	train1
+etoko_sg	e_t_o_k_o.webm	singular_030.png	train1
+umume_pl	t_u_m_u_m_e.webm	plural_032.png	train1
+ekuko_sg	e_k_u_k_o.webm	singular_011.png	train1
+oNupi_sg	o_N_u_p_i.webm	singular_056.png	train1
+ipiNi_sg	i_p_i_N_i.webm	singular_094.png	train1
+onope_pl	t_o_n_o_p_e.webm	plural_057.png	train1
+etuNi_sg	e_t_u_N_i.webm	singular_013.png	train1
+ekoce_sg	e_k_o_c_e.webm	singular_062.png	train1
+opoke_sg	o_p_o_k_e.webm	singular_074.png	train1
+ocici_sg	o_c_i_c_i.webm	singular_072.png	train1
+enupe_sg	e_n_u_p_e.webm	singular_028.png	train1
+upoci_pl	t_u_p_o_c_i.webm	plural_060.png	train1
+emeno_sg	e_m_e_n_o.webm	singular_082.png	train1
+upopi_pl	t_u_p_o_p_i.webm	plural_005.png	train1
+utupo_pl	t_u_t_u_p_o.webm	plural_061.png	train1
+onumu_sg	o_n_u_m_u.webm	singular_017.png	train1
+iNuNo_sg	i_N_u_N_o.webm	singular_039.png	train1
+upopi_sg	u_p_o_p_i.webm	singular_005.png	train1
+imice_sg	i_m_i_c_e.webm	singular_034.png	train1
+ipupi_sg	i_p_u_p_i.webm	singular_026.png	train1
+iNome_sg	i_N_o_m_e.webm	singular_021.png	train1
+utopu_sg	u_t_o_p_u.webm	singular_093.png	train1
+onumu_pl	t_o_n_u_m_u.webm	plural_017.png	train1
+okume_sg	o_k_u_m_e.webm	singular_063.png	train2
+opoke_pl	t_o_p_o_k_e.webm	plural_074.png	train2
+ekiNe_pl	c_e_k_i_N_e.webm	plural_052.png	train2
+emopo_sg	e_m_o_p_o.webm	singular_012.png	train2
+oNimi_sg	o_N_i_m_i.webm	singular_041.png	train2
+unoNu_pl	t_u_n_o_N_u.webm	plural_027.png	train2
+omiki_sg	o_m_i_k_i.webm	singular_053.png	train2
+iNipu_sg	i_N_i_p_u.webm	singular_078.png	train2
+unuke_pl	t_u_n_u_k_e.webm	plural_085.png	train2
+uNucu_pl	t_u_N_u_c_u.webm	plural_044.png	train2
+opope_sg	o_p_o_p_e.webm	singular_036.png	train2
+enoto_sg	e_n_o_t_o.webm	singular_092.png	train2
+oceno_pl	t_o_c_e_n_o.webm	plural_064.png	train2
+utupo_sg	u_t_u_p_o.webm	singular_061.png	train2
+imecu_sg	i_m_e_c_u.webm	singular_040.png	train2
+eNeke_sg	e_N_e_k_e.webm	singular_002.png	train2
+eNumo_pl	c_e_N_u_m_o.webm	plural_091.png	train2
+emeku_sg	e_m_e_k_u.webm	singular_066.png	train2
+okuce_sg	o_k_u_c_e.webm	singular_038.png	train2
+emeke_pl	c_e_m_e_k_e.webm	plural_050.png	train2
+eNeNe_pl	c_e_N_e_N_e.webm	plural_009.png	train2
+opomu_sg	o_p_o_m_u.webm	singular_083.png	train2
+oNinu_sg	o_N_i_n_u.webm	singular_042.png	train2
+etuNi_pl	c_e_t_u_N_i.webm	plural_013.png	train2
+unoNu_sg	u_n_o_N_u.webm	singular_027.png	train2
+emumu_sg	e_m_u_m_u.webm	singular_006.png	train3
+ecinu_sg	e_c_i_n_u.webm	singular_090.png	train3
+eNimu_pl	c_e_N_i_m_u.webm	plural_019.png	train3
+eNumo_sg	e_N_u_m_o.webm	singular_091.png	train3
+oNimo_sg	o_N_i_m_o.webm	singular_048.png	train3
+ikeme_sg	i_k_e_m_e.webm	singular_076.png	train3
+ucoci_sg	u_c_o_c_i.webm	singular_049.png	train3
+imumo_sg	i_m_u_m_o.webm	singular_100.png	train3
+upuci_pl	t_u_p_u_c_i.webm	plural_059.png	train3
+emepo_pl	c_e_m_e_p_o.webm	plural_003.png	train3
+emeke_sg	e_m_e_k_e.webm	singular_050.png	train3
+okitu_sg	o_k_i_t_u.webm	singular_089.png	train3
+iceNe_sg	i_c_e_N_e.webm	singular_016.png	train3
+upomi_sg	u_p_o_m_i.webm	singular_023.png	train3
+ekumi_sg	e_k_u_m_i.webm	singular_073.png	train3
+umice_sg	u_m_i_c_e.webm	singular_024.png	train3
+ekeNu_pl	c_e_k_e_N_u.webm	plural_031.png	train3
+oceco_pl	t_o_c_e_c_o.webm	plural_025.png	train3
+eNico_sg	e_N_i_c_o.webm	singular_096.png	train3
+oNoce_sg	o_N_o_c_e.webm	singular_043.png	train3
+omiki_pl	t_o_m_i_k_i.webm	plural_053.png	train3
+enupe_pl	c_e_n_u_p_e.webm	plural_028.png	train3
+ononu_pl	t_o_n_o_n_u.webm	plural_045.png	train3
+ucuku_sg	u_c_u_k_u.webm	singular_081.png	train3
+ucope_sg	u_c_o_p_e.webm	singular_001.png	train3
+emipi_sg	e_m_i_p_i.webm	singular_088.png	train4
+ekiNe_sg	e_k_i_N_e.webm	singular_052.png	train4
+eNeku_pl	c_e_N_e_k_u.webm	plural_068.png	train4
+imope_sg	i_m_o_p_e.webm	singular_022.png	train4
+eceku_sg	e_c_e_k_u.webm	singular_007.png	train4
+eNimu_sg	e_N_i_m_u.webm	singular_019.png	train4
+ometo_pl	t_o_m_e_t_o.webm	plural_087.png	train4
+ikipu_sg	i_k_i_p_u.webm	singular_079.png	train4
+imipe_sg	i_m_i_p_e.webm	singular_070.png	train4
+etoko_pl	c_e_t_o_k_o.webm	plural_030.png	train4
+oNoce_pl	t_o_N_o_c_e.webm	plural_043.png	train4
+oNeNi_pl	t_o_N_e_N_i.webm	plural_058.png	train4
+umico_sg	u_m_i_c_o.webm	singular_067.png	train4
+ekeNu_sg	e_k_e_N_u.webm	singular_031.png	train4
+imoce_sg	i_m_o_c_e.webm	singular_018.png	train4
+eNipe_sg	e_N_i_p_e.webm	singular_086.png	train4
+iNeme_sg	i_N_e_m_e.webm	singular_065.png	train4
+oNimo_pl	t_o_N_i_m_o.webm	plural_048.png	train4
+upoci_sg	u_p_o_c_i.webm	singular_060.png	train4
+emeku_pl	c_e_m_e_k_u.webm	plural_066.png	train4
+ikopi_sg	i_k_o_p_i.webm	singular_035.png	train4
+ocimo_sg	o_c_i_m_o.webm	singular_004.png	train4
+upuci_sg	u_p_u_c_i.webm	singular_059.png	train4
+oNemo_sg	o_N_e_m_o.webm	singular_095.png	train4
+onope_sg	o_n_o_p_e.webm	singular_057.png	train4
+ikoki_sg	i_k_o_k_i.webm	singular_015.png	train5
+oNupi_pl	t_o_N_u_p_i.webm	plural_056.png	train5
+utopu_pl	t_u_t_o_p_u.webm	plural_093.png	train5
+iNepe_sg	i_N_e_p_e.webm	singular_071.png	train5
+ekumi_pl	c_e_k_u_m_i.webm	plural_073.png	train5
+okitu_pl	t_o_k_i_t_u.webm	plural_089.png	train5
+imiki_sg	i_m_i_k_i.webm	singular_055.png	train5
+ukino_pl	t_u_k_i_n_o.webm	plural_029.png	train5
+iNeNe_sg	i_N_e_N_e.webm	singular_099.png	train5
+oceco_sg	o_c_e_c_o.webm	singular_025.png	train5
+uNucu_sg	u_N_u_c_u.webm	singular_044.png	train5
+oNeNi_sg	o_N_e_N_i.webm	singular_058.png	train5
+umume_sg	u_m_u_m_e.webm	singular_032.png	train5
+imeme_sg	i_m_e_m_e.webm	singular_014.png	train5
+ocoto_sg	o_c_o_t_o.webm	singular_037.png	train5
+unoNe_sg	u_n_o_N_e.webm	singular_033.png	train5
+oNimi_pl	t_o_N_i_m_i.webm	plural_041.png	train5
+ikeke_sg	i_k_e_k_e.webm	singular_097.png	train5
+unuke_sg	u_n_u_k_e.webm	singular_085.png	train5
+umopu_sg	u_m_o_p_u.webm	singular_080.png	train5
+utopi_sg	u_t_o_p_i.webm	singular_098.png	train5
+emeno_pl	c_e_m_e_n_o.webm	plural_082.png	train5
+emepo_sg	e_m_e_p_o.webm	singular_003.png	train5
+oNemo_pl	t_o_N_e_m_o.webm	plural_095.png	train5
+ononu_sg	o_n_o_n_u.webm	singular_045.png	train5
+inomo	i_n_o_m_o.webm	./blick/	1_blick	well	
+ituce	i_t_u_c_e.webm	./blick/	1_blick	well	
+epiNe	e_p_i_N_e.webm	./blick/	1_blick	well	
+unomu	u_n_o_m_u.webm	./blick/	1_blick	well	
+umuNi	u_m_u_N_i.webm	./blick/	1_blick	well	
+upiNo	u_p_i_N_o.webm	./blick/	1_blick	well	
+inutu	i_n_u_t_u.webm	./blick/	1_blick	well	
+imuce	i_m_u_c_e.webm	./blick/	1_blick	well	
+opopo	o_p_o_p_o.webm	./blick/	1_blick	well	
+itoke	i_t_o_k_e.webm	./blick/	1_blick	well	
+itotu	i_t_o_t_u.webm	./blick/	1_blick	well	
+imeko	i_m_e_k_o.webm	./blick/	1_blick	well	
+umupi	u_m_u_p_i.webm	./blick/	1_blick	well	
+umoku	u_m_o_k_u.webm	./blick/	1_blick	well	
+omoNu	o_m_o_N_u.webm	./blick/	1_blick	well	
+itumi	i_t_u_m_i.webm	./blick/	1_blick	well	
+ukuko	u_k_u_k_o.webm	./blick/	1_blick	well	
+opeme	o_p_e_m_e.webm	./blick/	1_blick	well	
+umucu	u_m_u_c_u.webm	./blick/	1_blick	well	
+ocuNe	o_c_u_N_e.webm	./blick/	1_blick	well	
+epuku	e_p_u_k_u.webm	./blick/	1_blick	well	
+iputu	i_p_u_t_u.webm	./blick/	1_blick	well	
+utumi	u_t_u_m_i.webm	./blick/	1_blick	well	
+opoci	o_p_o_c_i.webm	./blick/	1_blick	well	
+ekeco	e_k_e_c_o.webm	./blick/	1_blick	well	
+uceti	u_c_e_t_i.webm	./blick/	1_blick	ti	
+inime	i_n_i_m_e.webm	./blick/	1_blick	ti	
+utipe	u_t_i_p_e.webm	./blick/	1_blick	ti	
+onoti	o_n_o_t_i.webm	./blick/	1_blick	ti	
+unico	u_n_i_c_o.webm	./blick/	1_blick	ti	
+ikoti	i_k_o_t_i.webm	./blick/	1_blick	ti	
+ikini	i_k_i_n_i.webm	./blick/	1_blick	ti	
+uNuti	u_N_u_t_i.webm	./blick/	1_blick	ti	
+ikuni	i_k_u_n_i.webm	./blick/	1_blick	ti	
+unino	u_n_i_n_o.webm	./blick/	1_blick	ti	
+uneko	u_n_e_k_o.webm	./blick/	1_blick	te	
+otepu	o_t_e_p_u.webm	./blick/	1_blick	te	
+utote	u_t_o_t_e.webm	./blick/	1_blick	te	
+iteku	i_t_e_k_u.webm	./blick/	1_blick	te	
+oneki	o_n_e_k_i.webm	./blick/	1_blick	te	
+etone	e_t_o_n_e.webm	./blick/	1_blick	te	
+eneku	e_n_e_k_u.webm	./blick/	1_blick	te	
+inune	i_n_u_n_e.webm	./blick/	1_blick	te	
+uNune	u_N_u_n_e.webm	./blick/	1_blick	te	
+icute	i_c_u_t_e.webm	./blick/	1_blick	te	
+eteti	e_t_e_t_i.webm	./blick/	1_blick	tite	
+eneni	e_n_e_n_i.webm	./blick/	1_blick	tite	
+unite	u_n_i_t_e.webm	./blick/	1_blick	tite	
+inite	i_n_i_t_e.webm	./blick/	1_blick	tite	
+iteti	i_t_e_t_i.webm	./blick/	1_blick	tite	
+iNuko	i_N_u_k_o.webm	050.png	2_wug_c_t	i	_i_N_u_k_o.webm
+ipupo	i_p_u_p_o.webm	001.png	2_wug_t_c	i	_i_p_u_p_o.webm
+iNoNe	i_N_o_N_e.webm	002.png	2_wug_t_c	i	_i_N_o_N_e.webm
+iceku	i_c_e_k_u.webm	003.png	2_wug_c_t	i	_i_c_e_k_u.webm
+iNoci	i_N_o_c_i.webm	004.png	2_wug_c_t	i	_i_N_o_c_i.webm
+imoNu	i_m_o_N_u.webm	005.png	2_wug_t_c	i	_i_m_o_N_u.webm
+icoco	i_c_o_c_o.webm	006.png	2_wug_t_c	i	_i_c_o_c_o.webm
+inopo	i_n_o_p_o.webm	007.png	2_wug_t_c	i	_i_n_o_p_o.webm
+ikuNi	i_k_u_N_i.webm	008.png	2_wug_t_c	i	_i_k_u_N_i.webm
+ipici	i_p_i_c_i.webm	009.png	2_wug_c_t	i	_i_p_i_c_i.webm
+icino	i_c_i_n_o.webm	010.png	2_wug_c_t	i	_i_c_i_n_o.webm
+inupi	i_n_u_p_i.webm	011.png	2_wug_c_t	i	_i_n_u_p_i.webm
+imike	i_m_i_k_e.webm	012.png	2_wug_c_t	i	_i_m_i_k_e.webm
+icimu	i_c_i_m_u.webm	013.png	2_wug_t_c	i	_i_c_i_m_u.webm
+icotu	i_c_o_t_u.webm	014.png	2_wug_t_c	i	_i_c_o_t_u.webm
+etunu	e_t_u_n_u.webm	015.png	2_wug_t_c	e	_e_t_u_n_u.webm
+epupu	e_p_u_p_u.webm	016.png	2_wug_c_t	e	_e_p_u_p_u.webm
+ekumo	e_k_u_m_o.webm	017.png	2_wug_t_c	e	_e_k_u_m_o.webm
+ekiki	e_k_i_k_i.webm	018.png	2_wug_c_t	e	_e_k_i_k_i.webm
+ecoke	e_c_o_k_e.webm	019.png	2_wug_c_t	e	_e_c_o_k_e.webm
+etoNe	e_t_o_N_e.webm	020.png	2_wug_t_c	e	_e_t_o_N_e.webm
+etuce	e_t_u_c_e.webm	021.png	2_wug_c_t	e	_e_t_u_c_e.webm
+eNoci	e_N_o_c_i.webm	022.png	2_wug_t_c	e	_e_N_o_c_i.webm
+epomo	e_p_o_m_o.webm	023.png	2_wug_c_t	e	_e_p_o_m_o.webm
+enupi	e_n_u_p_i.webm	024.png	2_wug_c_t	e	_e_n_u_p_i.webm
+epuce	e_p_u_c_e.webm	025.png	2_wug_c_t	e	_e_p_u_c_e.webm
+epuci	e_p_u_c_i.webm	026.png	2_wug_c_t	e	_e_p_u_c_i.webm
+epoNo	e_p_o_N_o.webm	027.png	2_wug_t_c	e	_e_p_o_N_o.webm
+ecocu	e_c_o_c_u.webm	028.png	2_wug_t_c	e	_e_c_o_c_u.webm
+ecoNe	e_c_o_N_e.webm	029.png	2_wug_c_t	e	_e_c_o_N_e.webm
+otumo	o_t_u_m_o.webm	030.png	2_wug_t_c	x	_o_t_u_m_o.webm
+ucemo	u_c_e_m_o.webm	031.png	2_wug_c_t	x	_u_c_e_m_o.webm
+ucuNu	u_c_u_N_u.webm	032.png	2_wug_t_c	x	_u_c_u_N_u.webm
+oceki	o_c_e_k_i.webm	033.png	2_wug_c_t	x	_o_c_e_k_i.webm
+uceci	u_c_e_c_i.webm	034.png	2_wug_t_c	x	_u_c_e_c_i.webm
+ocimu	o_c_i_m_u.webm	035.png	2_wug_c_t	x	_o_c_i_m_u.webm
+otoce	o_t_o_c_e.webm	036.png	2_wug_t_c	x	_o_t_o_c_e.webm
+uNeko	u_N_e_k_o.webm	037.png	2_wug_t_c	x	_u_N_e_k_o.webm
+upome	u_p_o_m_e.webm	038.png	2_wug_c_t	x	_u_p_o_m_e.webm
+omutu	o_m_u_t_u.webm	039.png	2_wug_c_t	x	_o_m_u_t_u.webm
+oNunu	o_N_u_n_u.webm	040.png	2_wug_t_c	x	_o_N_u_n_u.webm
+ukimu	u_k_i_m_u.webm	041.png	2_wug_c_t	x	_u_k_i_m_u.webm
+ocecu	o_c_e_c_u.webm	042.png	2_wug_t_c	x	_o_c_e_c_u.webm
+ucimo	u_c_i_m_o.webm	043.png	2_wug_c_t	x	_u_c_i_m_o.webm
+oNope	o_N_o_p_e.webm	044.png	2_wug_t_c	x	_o_N_o_p_e.webm
+opupi	o_p_u_p_i.webm	045.png	2_wug_c_t	x	_o_p_u_p_i.webm
+ociNi	o_c_i_N_i.webm	046.png	2_wug_t_c	x	_o_c_i_N_i.webm
+umeco	u_m_e_c_o.webm	047.png	2_wug_t_c	x	_u_m_e_c_o.webm
+utoNe	u_t_o_N_e.webm	048.png	2_wug_c_t	x	_u_t_o_N_e.webm
+upoNu	u_p_o_N_u.webm	049.png	2_wug_t_c	x	_u_p_o_N_u.webm
