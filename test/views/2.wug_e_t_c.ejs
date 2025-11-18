@@ -1,0 +1,20 @@
+<div class="trialpartWrapper" style="float:center;">
+    <p align="left"> 이 단어는 방금 배운 크'샬라 (K'shala)어에서 아래 그림을 표현하기 위하여 사용하는 단어입니다. </p>
+    <p align="left"> 듣기: <%= makeSoundButton("wug/".concat(this.wav).concat(".mp3")) %></p>
+    <p> <img src="resources/pictures/wug/singular_<%= this.img %>" width="300" style="padding:10px; border: none;"> </p>
+</div>
+
+<div class="trialpartWrapper" style="float:center;">
+    <hr>
+    <p align="left"> 크'샬라 (K'shala)어에서는 다음의 그림을 어떻게 표현할까요? </p>
+    <p align="left"> 듣기: <%= makeSoundButton("wug/".concat(this.wav2).concat(".mp3")) %> </p>
+    <p> <img src="resources/pictures/wug/plural_<%= this.img %>" width="300" style="padding:10px; border: none;"> </p>
+</div>
+
+<div class="trialpartWrapper" style="float:center;">
+    <hr>
+    <p align="left"> 둘 중 무엇이 적절한 단어인가요? </p>
+    <p> <%= makeScale({buttons: ["첫 번째","두 번째"], disable: true}) %> </p>
+</div>
+
+<div style="clear: both; height: 1px;">&nbsp;</div>

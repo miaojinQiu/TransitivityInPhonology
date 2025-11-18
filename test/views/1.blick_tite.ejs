@@ -1,0 +1,12 @@
+<div class="trialpartWrapper" style="float:center;">
+    <p align="left"> 이 단어는 방금 배운 크'샬라 (K'shala)어에 속하는 단어인가요? </p>
+    <p align="left"> 듣기: <%= makeSoundButton("blick/".concat(this.wav.concat(".mp3"))) %> </p>
+</div>
+
+<div class="trialpartWrapper" style="float:center;">
+    <hr>
+    <p align="left"> 선택해 주세요. </p>
+    <p align="left"> <%= makeScale({buttons: ["    네    "," 아니오 "], disable: true}) %> </p>
+</div>
+
+<div style="clear: both; height: 1px;">&nbsp;</div>
